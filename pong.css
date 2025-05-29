@@ -1,0 +1,29 @@
+body{
+  background: black; 
+  color: white;
+  text-align: center;
+}
+h1{
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  text-align: center; 
+  font-size: 30px;
+}
+
+#gameContainer{
+  position: relative;
+  align-item: center;
+}
+#score{
+  margin: auto;
+  font-size: 20px;
+  text-align: left;
+}
+#startGame{
+  font-size: 20px;
+  padding: 10px;
+  text-shadow: 5px 5px 10px;
+  font-weight: bold;
+}
+#pongCanvas{
+  border: solid;
+}

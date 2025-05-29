@@ -43,7 +43,7 @@ body {
   color: #000;
 }
 
-/* Projects */
+/* Projects Section */
 .projects {
   padding: 3rem 2rem;
   max-width: 1100px;
@@ -67,7 +67,7 @@ body {
   background: white;
   border-radius: 1rem;
   overflow: hidden;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
   text-decoration: none;
   color: inherit;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -75,7 +75,7 @@ body {
 
 .project-card:hover {
   transform: translateY(-6px);
-  box-shadow: 0 12px 30px rgba(0,0,0,0.12);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
 }
 
 .project-card img {

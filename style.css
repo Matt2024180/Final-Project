@@ -91,3 +91,12 @@ body {
   text-align: center;
   background: #f9fafb;
 }
+
+.footer {
+  text-align: center;
+  padding: 2rem;
+  background: #2b2b2b;
+  color: white;
+  margin-top: 4rem;
+  font-size: 0.95rem;
+}
